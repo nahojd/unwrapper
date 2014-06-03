@@ -1,0 +1,15 @@
+{
+  "name": "UnwrapUrl",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ".\\node_modules\\.bin\\jasmine-node.cmd --autotest --verbose --growl .\\specs --watch .\\"
+  },
+  "dependencies": {
+    "express": "",
+    "body-parser": "",
+    "vash": "",
+  	"jasmine-node": ""
+  }
+}
